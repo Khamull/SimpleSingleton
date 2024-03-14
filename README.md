@@ -1,0 +1,2 @@
+# SimpleSingleton
+Simple Singleton Implementation
